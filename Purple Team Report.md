@@ -28,7 +28,7 @@ malware executed silently, harvested credentials from Chrome and MS Outlook, the
 
 Full attack chain completed without detection. Total credentials compromised: 4 Total accounts accessed: Bank of America, AOL, MS Outlook.
 
-![wrieshark1.jpeg](wrieshark1.jpeg)
+![hawkeye-flowchart.jpeg](hawkeye-flowchart.jpeg)
 
 ## **Detection Gaps**
 
